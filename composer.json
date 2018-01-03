@@ -1,0 +1,14 @@
+{
+  "name": "petrwl/parentheses_console",
+  "description": "Test balance parentheses",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Petr Schegolskov",
+      "email": "petrexpress@gmail.com"
+    }
+  ],
+  "require": {
+    "petrwl/parentheses": "dev-master"
+  }
+}
